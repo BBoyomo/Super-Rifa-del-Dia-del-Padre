@@ -1,0 +1,122 @@
+
+--- MENU SORTEO ---
+1. Registrar numero comprado
+2. Ver clientes y sus numeros
+3. Ver numeros disponibles
+4. Eliminar un cliente
+5. SORTEAR
+6. Salir
+Opcion: 2
+
+--- LISTADO DE CLIENTES Y SUS NUMEROS ---
+[0] Lucia del Cielo Pasallo | IG: lu.pasallo
+    Numeros: 12 130
+------------------------------------------
+[1] Tomas Messina | IG: t_messi15
+    Numeros: 111
+------------------------------------------
+[2] Valentin Sawicki | IG:
+    Numeros: 72 98
+------------------------------------------
+[3] Narella Alejandra Godoy | IG: nareggodoy
+    Numeros: 11
+------------------------------------------
+[4] Valentina Carvalho Gebel | IG: valengebel
+    Numeros: 2 88
+------------------------------------------
+[5] Valentina Velardo | IG: valentinavelardo05
+    Numeros: 43 95
+------------------------------------------
+[6] Mia Canteros | IG: miiacanteross
+    Numeros: 22 23
+------------------------------------------
+[7] Cristina helou | IG:
+    Numeros: 7 77
+------------------------------------------
+[8] Roberto Carlos Pasallo | IG:
+    Numeros: 83 147 152 200
+------------------------------------------
+[9] Facundo Sebastian Roggero Ramírez | IG:
+    Numeros: 25 26
+------------------------------------------
+[10] Maximo Wrang | IG:
+    Numeros: 13
+------------------------------------------
+[11] Veronica Mercedes Gebel | IG:
+    Numeros: 20 114
+------------------------------------------
+[12] Maria Itati Canette | IG:
+    Numeros: 16 27
+------------------------------------------
+[13] Albertina Helou | IG:
+    Numeros: 10 19 21 48
+------------------------------------------
+[14] Paolo Michelle Mattarese | IG:
+    Numeros: 31
+------------------------------------------
+[15] Coto | IG:
+    Numeros: 67 177
+------------------------------------------
+[16] Tio Cheito | IG:
+    Numeros: 3 24
+------------------------------------------
+[17] Agustina Fernanda Sanchez | IG:
+    Numeros: 14 15
+------------------------------------------
+[18] Tomas Ostojic | IG:
+    Numeros: 5
+------------------------------------------
+[19] Juliana Otonelli | IG:
+    Numeros: 55 56
+------------------------------------------
+
+--- MENU SORTEO ---
+1. Registrar numero comprado
+2. Ver clientes y sus numeros
+3. Ver numeros disponibles
+4. Eliminar un cliente
+5. SORTEAR
+6. Salir
+Opcion: 5
+
+================================
+EL GANADOR ES EL NUMERO 23
+Ganador: Mia Canteros
+================================
+
+--- MENU SORTEO ---
+1. Registrar numero comprado
+2. Ver clientes y sus numeros
+3. Ver numeros disponibles
+4. Eliminar un cliente
+5. SORTEAR
+6. Salir
+Opcion: 5
+
+================================
+EL GANADOR ES EL NUMERO 83
+Ganador: Roberto Carlos Pasallo
+================================
+
+--- MENU SORTEO ---
+1. Registrar numero comprado
+2. Ver clientes y sus numeros
+3. Ver numeros disponibles
+4. Eliminar un cliente
+5. SORTEAR
+6. Salir
+Opcion: 5
+
+================================
+EL GANADOR ES EL NUMERO 15
+Ganador: Agustina Fernanda Sanchez
+================================
+
+--- MENU SORTEO ---
+1. Registrar numero comprado
+2. Ver clientes y sus numeros
+3. Ver numeros disponibles
+4. Eliminar un cliente
+5. SORTEAR
+6. Salir
+Opcion:
